@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "course": "COMP-5002",
+  "templates": {
+    "LAB1": {
+      "repository": "OPIT-CS/comp5002-lab1-threading-locks",
+      "url": "https://github.com/OPIT-CS/comp5002-lab1-threading-locks",
+      "private": false,
+      "is_template": false
+    },
+    "LAB2": {
+      "repository": "OPIT-CS/comp5002-lab2-bounded-buffer",
+      "url": "https://github.com/OPIT-CS/comp5002-lab2-bounded-buffer",
+      "private": false,
+      "is_template": false
+    },
+    "LAB3": {
+      "repository": "OPIT-CS/comp5002-lab3-process-pool",
+      "url": "https://github.com/OPIT-CS/comp5002-lab3-process-pool",
+      "private": false,
+      "is_template": false
+    },
+    "LAB4": {
+      "repository": "OPIT-CS/comp5002-lab4-mpi-collectives",
+      "url": "https://github.com/OPIT-CS/comp5002-lab4-mpi-collectives",
+      "private": false,
+      "is_template": false
+    },
+    "LAB5": {
+      "repository": "OPIT-CS/comp5002-lab5-distributed-frameworks",
+      "url": "https://github.com/OPIT-CS/comp5002-lab5-distributed-frameworks",
+      "private": false,
+      "is_template": false
+    }
+  }
+}
